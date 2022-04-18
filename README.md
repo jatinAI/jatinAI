@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jatinAI
-- 👀 I’m interested in Machine learning, Deep learning , Web development and competitive programming
+- 👀 I’m interested in Machine learning, Deep learning , Application development and competitive programming
 - 🌱 I’m currently learning in BITS Pilani
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
